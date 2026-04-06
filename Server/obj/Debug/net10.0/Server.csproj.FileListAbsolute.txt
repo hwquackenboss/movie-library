@@ -395,3 +395,4 @@ C:\Users\fanta\code\Quackenboss-MovieLibrary\Server\obj\Debug\net10.0\refint\Ser
 C:\Users\fanta\code\Quackenboss-MovieLibrary\Server\obj\Debug\net10.0\Server.pdb
 C:\Users\fanta\code\Quackenboss-MovieLibrary\Server\obj\Debug\net10.0\Server.genruntimeconfig.cache
 C:\Users\fanta\code\Quackenboss-MovieLibrary\Server\obj\Debug\net10.0\ref\Server.dll
+C:\Users\fanta\code\Quackenboss-MovieLibrary\Server\obj\Debug\net10.0\Server.sourcelink.json
